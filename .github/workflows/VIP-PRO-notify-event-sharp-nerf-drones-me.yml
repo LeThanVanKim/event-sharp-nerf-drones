@@ -16,7 +16,7 @@ jobs:
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           # Noi dung mail ban muon
-          subject: "[CANH BAO] DU AN DRONE CO BIEN MOI - KIEM TRA NGAY!"
+          subject: "[VIP PRO -> CANH BAO] DU AN DRONE CO BIEN MOI - KIEM TRA NGAY!"
           body: "Chào bạn, dự án Event-Sharp-NeRF-Drones vừa có cập nhật mới. Hãy vào kiểm tra file xem có ai xóa gì không nhé!"
           to: lethangcdt@gmail.com
           from: Bot GitHub Cua Toi
