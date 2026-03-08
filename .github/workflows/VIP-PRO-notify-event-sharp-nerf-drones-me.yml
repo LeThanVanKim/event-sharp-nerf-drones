@@ -18,5 +18,5 @@ jobs:
           # Noi dung mail ban muon
           subject: "[CANH BAO] DU AN DRONE CO BIEN MOI - KIEM TRA NGAY!"
           body: "Chào bạn, dự án Event-Sharp-NeRF-Drones vừa có cập nhật mới. Hãy vào kiểm tra file xem có ai xóa gì không nhé!"
-          to: email-cua-ban@gmail.com
+          to: lethangcdt@gmail.com
           from: Bot GitHub Cua Toi
